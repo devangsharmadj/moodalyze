@@ -28,7 +28,7 @@ Moodalyze is an application designed to track and analyze sentiments of topics a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/moodalyze.git
+    git clone https://github.com/devangsharmadj/moodalyze.git
     cd moodalyze/backend
     ```
 
