@@ -2,7 +2,7 @@ import asyncio
 from twikit import Client
 
 USERNAME = 'moodalyze'
-EMAIL = 'sharmdev000@isd284.com'
+EMAIL = ''
 PASSWORD = ''
 
 
